@@ -1,2 +1,3 @@
 # Ethical-Hacking
 Software and Code for Ethical Hacking
+Hello everyone. My name is Rickey and I am a long time ethical hacking enthusist who is interested in collaborating on related tools and code. I will also provide the most updated fixes I have personal resolved on open source software and code as well. I am currently a graduate student in the cyber security engineering program. I have a passion for wireless communications and sigint. I am behind the power curve on scripting languages and hope to improve on that moving forward. If you are interest, I wouldnt mind getting your 2 cents. So drop me a line. Thanks 
